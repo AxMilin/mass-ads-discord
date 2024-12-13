@@ -1,7 +1,7 @@
-// - สามารถนำไปใช้ต่อได้ / ดัดแปลงและขายต่อได้ แต่ต้องเป็น Open Source ทั้งหมด!!
-// - หากไม่เข้าใจให้อ่าน - https://www.gnu.org/licenses/gpl-3.0.html
+# - สามารถนำไปใช้ต่อได้ / ดัดแปลงและขายต่อได้ แต่ต้องเป็น Open Source ทั้งหมด!!
+# - หากไม่เข้าใจให้อ่าน - https://www.gnu.org/licenses/gpl-3.0.html
 
-//- Made By https://axmilin.in.th/ <3
+# - Made By https://axmilin.in.th/ <3
 
 import requests, time, json, random, threading, os
 from colorama import Fore
@@ -94,7 +94,7 @@ for i in range(thread):
             send(item)
 
 
-// - สามารถนำไปใช้ต่อได้ / ดัดแปลงและขายต่อได้ แต่ต้องเป็น Open Source ทั้งหมด!!
-// - หากไม่เข้าใจให้อ่าน - https://www.gnu.org/licenses/gpl-3.0.html
+# - สามารถนำไปใช้ต่อได้ / ดัดแปลงและขายต่อได้ แต่ต้องเป็น Open Source ทั้งหมด!!
+# - หากไม่เข้าใจให้อ่าน - https://www.gnu.org/licenses/gpl-3.0.html
 
-//- Made By https://axmilin.in.th/ <3
+# Made By https://axmilin.in.th/ <3
