@@ -1,3 +1,8 @@
+// - สามารถนำไปใช้ต่อได้ / ดัดแปลงและขายต่อได้ แต่ต้องเป็น Open Source ทั้งหมด!!
+// - หากไม่เข้าใจให้อ่าน - https://www.gnu.org/licenses/gpl-3.0.html
+
+//- Made By https://axmilin.in.th/ <3
+
 import requests, time, json, random, threading, os
 from colorama import Fore
 from config import message, token, delay, thread
@@ -9,7 +14,7 @@ banner = f'''{Fore.LIGHTCYAN_EX}
  | |\/| |/ _` / __/ __|   / /\ \ / _` / __| 
  | |  | | (_| \__ \__ \  / ____ \ (_| \__ \ 
  |_|  |_|\__,_|___/___/ /_/    \_\__,_|___/ 
-    \__ https://ax-milin.netlify.app
+    \__ https://axmilin.in.th
      \__ Made By Ax_Milin <3
 '''
 print(banner)
@@ -87,3 +92,9 @@ for i in range(thread):
             threading.Thread(target=send,args=(item,)).start()
         except:
             send(item)
+
+
+// - สามารถนำไปใช้ต่อได้ / ดัดแปลงและขายต่อได้ แต่ต้องเป็น Open Source ทั้งหมด!!
+// - หากไม่เข้าใจให้อ่าน - https://www.gnu.org/licenses/gpl-3.0.html
+
+//- Made By https://axmilin.in.th/ <3
